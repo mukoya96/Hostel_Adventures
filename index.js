@@ -10,7 +10,7 @@ const PORT = process.env.PORT | 3001;
 
 app.use(cors())
 
-app.use(express.static(path.join(__dirname+'/public_2')))
+app.use(express.static(path.join(__dirname+'/public_3')))
 
 let user_names = [];
 let Rooms = [];
