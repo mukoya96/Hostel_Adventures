@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6ca3d09.css",
+    "main.js": "/static/js/main.4664a17c.js",
+    "static/js/453.0b5d64f7.chunk.js": "/static/js/453.0b5d64f7.chunk.js",
+    "static/media/Screenshot_20241205-141656_2.png": "/static/media/Screenshot_20241205-141656_2.0ba3e94b136ec56fad0b.png",
+    "static/media/LUXURY-HOSTEL_PARIS-1.png": "/static/media/LUXURY-HOSTEL_PARIS-1.e582f4102689ba7161ce.png",
+    "static/media/IMG-20241205-WA0080.jpg": "/static/media/IMG-20241205-WA0080.b923f22e0d81d8867b06.jpg",
+    "static/media/20240819_212937.jpg": "/static/media/20240819_212937.f2b086afd1d9e6669f51.jpg",
+    "static/media/IMG-20241205-WA0071.jpg": "/static/media/IMG-20241205-WA0071.ee4b9b03026115e5b609.jpg",
+    "static/media/w991x660.jpg": "/static/media/w991x660.18cdb45f49bb50262eef.jpg",
+    "static/media/staff_2.jpg": "/static/media/staff_2.c9c9c20f6aadf83c02bf.jpg",
+    "static/media/staff_3.jpg": "/static/media/staff_3.275e5ee8b6a3fc4b350a.jpg",
+    "static/media/IMG-20241205-WA0085.jpg": "/static/media/IMG-20241205-WA0085.92cc3c7da4b1b0678358.jpg",
+    "static/media/staff-1.jpg": "/static/media/staff-1.0f9dfd0375b9bfe8d648.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.d6ca3d09.css.map": "/static/css/main.d6ca3d09.css.map",
+    "main.4664a17c.js.map": "/static/js/main.4664a17c.js.map",
+    "453.0b5d64f7.chunk.js.map": "/static/js/453.0b5d64f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6ca3d09.css",
+    "static/js/main.4664a17c.js"
+  ]
+}
